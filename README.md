@@ -1,4 +1,5 @@
 # CRAFTING INTERPRETERS
+:link: (Link)[https://craftinginterpreters.com/welcome.html]
 
 ## THE LOX LANGUAGE
 
@@ -6,7 +7,7 @@
 #### Dynamic Typing
 
 
-Variables can store values of ant type. If you try to perform an operation on values  of the wrong type then the error is detected and reported at runtime.
+Variables can store values of ant type. If you try to perform an operation on values of the wrong type, then the error is detected and reported at runtime.
 
 #### Automatic Memory Managment
 
@@ -59,3 +60,20 @@ greaterTahn >= orEqual;
 123 == "123" // false
 ```
 Values of different types are never equivalent.
+
+#### Logical Operators
+```
+!true;  // false
+!false; // true
+```
+```
+true and false; // false
+true and true;  // true
+```
+```
+false or true;  // true
+false or false; // false
+```
+
+#### Precedence and Grouping
+
