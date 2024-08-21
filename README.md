@@ -77,3 +77,10 @@ false or false; // false
 
 #### Precedence and Grouping
 
+It's boring, so this will work like in C, you can use parentheses to change the precedence if it isn't what you want.
+```
+var average = (min + max) / 2;
+```
+
+
+### :fly: Statements 
