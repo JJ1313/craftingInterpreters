@@ -1,5 +1,5 @@
 # CRAFTING INTERPRETERS
-:link: (Link)[https://craftinginterpreters.com/welcome.html]
+:link: [Link](https://craftinginterpreters.com/welcome.html)
 
 ## THE LOX LANGUAGE
 
