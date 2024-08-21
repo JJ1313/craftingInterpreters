@@ -2,7 +2,7 @@
 
 ## THE LOX LANGUAGE
 
-### High-Level Language
+### :fly: High-Level Language
 #### Dynamic Typing
 
 
@@ -15,7 +15,7 @@ There is two main techniques for managing memory: reference counting and tracing
 - Ref. counting: Simple to implement but the limitations become troublesome.
 - GC: Harder to work with, but best results at the end.
 
-### Data Types
+### :fly: Data Types
 
 - Booleans: true or false.
 - Numbers: Just double-precision floating points.
@@ -31,7 +31,7 @@ There is two main techniques for managing memory: reference counting and tracing
 ```
 - Nil: Represent no values. In others Languages is often called null.
 
-### Expressions
+### :fly: Expressions
 #### Arithmetics
 ```
 add + me;
