@@ -19,4 +19,4 @@ There is two main techniques for managing memory: reference counting and tracing
 - Numbers: Just double-precision floating points.
 
 `1234;  
-`12.34;`
+12.34;`
